@@ -31,8 +31,3 @@
 > input sketch
 ![input sketch](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/raw/master/inputs/butterfly_72.png)
 
-> gabor feature visualization
-![feature 1](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/raw/master/gabor_feature_visualization/1.jpg)
-![feature 2](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/gabor_feature_visualization/2.jpg)
-![feature 3](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/3.jpg)
-![feature 4](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/4.jpg)
