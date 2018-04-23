@@ -4,4 +4,6 @@
 
 > butterfly_72.png and ji.jpeg are the input examples.
 
-> Please directly run gabor_test_1.m and gabor_test_2.m, the output results will be plotted.
+> gabor_filter_visualization.m can be used to visualise gabor filters in four direction respectively.
+
+> Please directly run gabor_demo.m, the output results will be plotted.
