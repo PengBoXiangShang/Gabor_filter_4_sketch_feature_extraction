@@ -28,6 +28,3 @@
 > Please directly run gabor_demo.m, the output results will be plotted.
 
 
-> input sketch
-![input sketch](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/raw/master/inputs/butterfly_72.png)
-
