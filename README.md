@@ -32,7 +32,7 @@
 ![input sketch](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/raw/master/inputs/butterfly_72.png)
 
 > gabor feature visualization
-![feature 1](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/1.png)
-![feature 2](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/2.png)
-![feature 3](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/3.png)
-![feature 4](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/4.png)
+![feature 1](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/raw/master/demo_ouputs/1.jpg)
+![feature 2](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/2.jpg)
+![feature 3](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/3.jpg)
+![feature 4](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/4.jpg)
