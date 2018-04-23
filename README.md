@@ -26,3 +26,13 @@
 > gabor_filter_visualization.m can be used to visualise gabor filters.
 
 > Please directly run gabor_demo.m, the output results will be plotted.
+
+
+> input sketch
+>> ![input sketch](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/inputs/butterfly_72.png)
+
+> gabor feature visualization
+>> ![feature 1](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/1.png)
+>> ![feature 2](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/2.png)
+>> ![feature 3](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/3.png)
+>> ![feature 4](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/4.png)
