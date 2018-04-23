@@ -1,14 +1,13 @@
-%4个方向的Gabo滤波器通过图像显示
-clear;
+%4个方向的Gabo滤波器�?过图像显�?clear;
 x = 0;
-theta = pi*3/4;%用弧度0,pi/4,pi/2,pi*3/4
+theta = pi*3/4;%用弧�?,pi/4,pi/2,pi*3/4
 f0 = 0.2; 
 for i = linspace(-15,15,50)
     x = x + 1;
     y = 0;
     for j = linspace(-15,15,50)
         y = y + 1;
-        z(y,x)=compute(i,j,f0,theta);
+        z(y,x)=gabor_computation(i,j,f0,theta);
     end
 end
 z_real = real(z);
