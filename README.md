@@ -29,7 +29,7 @@
 
 
 > input sketch
-![input sketch](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/inputs/butterfly_72.png)
+![input sketch](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/raw/master/inputs/butterfly_72.png)
 
 > gabor feature visualization
 ![feature 1](https://github.com/PengBoXiangShang/Gabor_filter_4_sketch_feature_extraction/blob/master/demo_ouputs/1.png)
